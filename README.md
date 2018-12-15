@@ -1,2 +1,2 @@
 # OWE
-The code is currently being refactored and will be made available here soon along with the datasets.
+The code is currently being refactored and will be made available here before the conference along with the datasets.
