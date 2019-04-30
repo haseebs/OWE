@@ -1,5 +1,5 @@
 # An Open-World Extension for Knowledge Graph Completion Models
-This repository contains the official Pytorch code for [An Open-World Extension for Knowledge Graph Completion Models](https://www.aaai.org/Papers/AAAI/2019/AAAI-ShahH.6029.pdf).
+This repository contains the official Pytorch code for [An Open-World Extension for Knowledge Graph Completion Models](https://haseebshah.io/papers/owe).
 
 ## Setup
 
