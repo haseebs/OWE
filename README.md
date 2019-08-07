@@ -1,5 +1,5 @@
 # An Open-World Extension for Knowledge Graph Completion Models
-This repository contains the official Pytorch code for [An Open-World Extension for Knowledge Graph Completion Models](https://haseebshah.io/papers/owe).
+This repository contains the official Pytorch code for [An Open-World Extension for Knowledge Graph Completion Models](https://aaai.org/ojs/index.php/AAAI/article/view/4162).
 
 ## Setup
 
@@ -54,15 +54,4 @@ python owe/run_open_world.py -t -c <PATH_TO_DATASET> -d  <PATH_TO_CONFIG_AND_OUT
 For evaluation:
 ```bash
 python owe/run_open_world.py -e -lb -c <PATH_TO_DATASET> -d  <PATH_TO_CONFIG_AND_OUTPUT_DIR> --<KGC_MODEL_NAME> <PATH_TO_KGC_EMBEDDINGS>
-```
-
-## Citation
-If you found our work helpful in your research, consider citing the following:
-```
-@inproceedings{shah2019open,
-  title={An Open-World Extension to Knowledge Graph Completion Models},
-  author={Shah, Haseeb and Villmow, Johannes and Ulges, Adrian and Schwanecke, Ulrich and Shafait, Faisal},
-  booktitle={Thirty-Third AAAI Conference on Artificial Intelligence},
-  year={2019}
-}
 ```
