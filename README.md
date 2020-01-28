@@ -55,3 +55,16 @@ For evaluation:
 ```bash
 python owe/run_open_world.py -e -lb -c <PATH_TO_DATASET> -d  <PATH_TO_CONFIG_AND_OUTPUT_DIR> --<KGC_MODEL_NAME> <PATH_TO_KGC_EMBEDDINGS>
 ```
+
+## Citation
+If you found our work helpful in your research, consider citing the following:
+```
+@inproceedings{shah2019open,
+  title={An Open-World Extension to Knowledge Graph Completion Models},
+  author={Shah, Haseeb and Villmow, Johannes and Ulges, Adrian and Schwanecke, Ulrich and Shafait, Faisal},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={33},
+  pages={3044--3051},
+  year={2019}
+}
+```
