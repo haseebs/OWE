@@ -11,7 +11,7 @@ pip install -e .
 Then download the
 [FB15k-237-OWE](http://haseebshah.io/assets/FB15k-237-OWE.zip), 
 [DBPedia50](http://haseebshah.io/assets/dbpedia50.zip) and
-[FB20k](FB20K_preprocessed.zip) datasets as
+[FB20k](http://haseebshah.io/assets/FB20K_preprocessed.zip) datasets as
 required. These contain the datasets in format required for both OpenKE
 and our code.
 
