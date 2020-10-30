@@ -9,9 +9,9 @@ pip install -e .
 ```
 
 Then download the
-[FB15k-237-OWE](http://haseebshah.io/assets/FB15k-237-OWE.zip), 
-[DBPedia50](http://haseebshah.io/assets/dbpedia50.zip) and
-[FB20k](http://haseebshah.io/assets/FB20K_preprocessed.zip) datasets as
+[FB15k-237-OWE](https://github.com/haseebs/haseebs.github.io/raw/master/assets/FB15k-237-OWE.zip), 
+[DBPedia50](https://github.com/haseebs/haseebs.github.io/raw/master/assets/dbpedia50.zip) and
+[FB20k](https://github.com/haseebs/haseebs.github.io/raw/master/assets/FB20K_preprocessed.zip) datasets as
 required. These contain the datasets in format required for both OpenKE
 and our code.
 
@@ -29,7 +29,7 @@ To use a previously trained KGC model with OWE you need to export the entity and
 Furthermore you need to provide two more files: `entity2id.txt` and `relation2id.txt`, which contain a mapping
 of an entity/relation string to the corresponding index (id) in the embedding files.
 
-The trained 300D ComplEx embeddings for FB15k-237-OWE can be obtained from [here](http://haseebshah.io/assets/FB15k-237-OWE-closed-world-embeddings.zip).
+The trained 300D ComplEx embeddings for FB15k-237-OWE can be obtained from [here](https://github.com/haseebs/haseebs.github.io/raw/master/assets/FB15k-237-OWE-closed-world-embeddings.zip).
 
 For closed-world evaluation:
 ```bash
