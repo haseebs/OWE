@@ -1,6 +1,7 @@
 # An Open-World Extension for Knowledge Graph Completion Models
 This repository contains the official Pytorch code for [An Open-World Extension for Knowledge Graph Completion Models](https://aaai.org/ojs/index.php/AAAI/article/view/4162).
 
+**Update:** The code and paper for an extension to this work (with better results) is available at [this link](https://github.com/haseebs/RST-OWE).
 ## Setup
 
 Resolve dependencies by executing the following command:
