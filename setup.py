@@ -10,7 +10,7 @@ setup(name='OWE',
       url="https://www.aaai.org/Papers/AAAI/2019/AAAI-ShahH.6029.pdf", 
       install_requires=[
         'torch==1.0.0',
-        'numpy==1.16.0',
+        'numpy==1.22.0',
         'gensim==3.7.0',
         'tabulate==0.8.2',
         'matplotlib==3.0.2',
